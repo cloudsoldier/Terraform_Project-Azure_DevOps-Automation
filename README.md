@@ -3,8 +3,9 @@
 Introduction
 In this project I will teach how to work with these multiple tools.
 
-T- **Terraform**
+- **Terraform**
 - **Visual Studio Code** with some useful extensions
 - **GitHub**
 - **Azure DevOps Services**
 - **Azure Cloud**
+
