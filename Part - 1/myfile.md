@@ -4,12 +4,18 @@
 
 - **Setting up Terraform development environment**
 
-- We will install
-    -- Visual Studio code
-    -- Azure CLI
-       Terraform
-       Intialize DevOps  env iwht Terraform provider to work with Azure Cloud
-       Using Azure , Service Principal and managed Identity.
+Here’s your text formatted in Markdown:
+
+```markdown
+- **We will install:**
+   - **Visual Studio Code**
+   - **Azure CLI**
+   - **Terraform**
+   - **Initialize DevOps environment with Terraform provider to work with Azure Cloud**
+   - **Using Azure, Service Principal, and Managed Identity**
+```
+
+
   
      <img width="704" alt="image" src="https://github.com/user-attachments/assets/963e161b-e182-439b-87ca-c77ce409c557" />
 
