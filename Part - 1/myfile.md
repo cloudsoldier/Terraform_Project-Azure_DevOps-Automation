@@ -6,14 +6,14 @@
 
 Here’s your text formatted in Markdown:
 
-```markdown
+
 - **We will install:**
    - **Visual Studio Code**
    - **Azure CLI**
    - **Terraform**
    - **Initialize DevOps environment with Terraform provider to work with Azure Cloud**
    - **Using Azure, Service Principal, and Managed Identity**
-```
+
 
 
   
