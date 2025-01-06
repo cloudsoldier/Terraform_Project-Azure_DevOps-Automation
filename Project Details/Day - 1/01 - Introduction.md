@@ -18,4 +18,4 @@
 - **8. 1.6_Configure_development_tools**
 
 
-Let me know if you'd like to refine or add any details!
+
