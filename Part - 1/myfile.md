@@ -29,7 +29,8 @@ We will implement a **multi-tier real infrastructure scenario** using **Terrafor
 The lab will be divided into smaller, manageable parts, and each part will be deployed step by step:
 
 - **Remote State Storage** and **Key Vault** for Secret Management
-  <img width="282" alt="image" src="https://github.com/user-attachments/assets/d3f1fb70-4fc0-4b14-b4cb-abe8a8f757eb" />
+- 
+  <img width="325" alt="image" src="https://github.com/user-attachments/assets/d3f1fb70-4fc0-4b14-b4cb-abe8a8f757eb" />
 
 - **Jumpbox Environment**
 
@@ -37,11 +38,11 @@ The lab will be divided into smaller, manageable parts, and each part will be de
 
 - **Backend Environment**
 
-   <img width="329" alt="image" src="https://github.com/user-attachments/assets/c4a10416-f5be-4815-b96b-52fa8b7049f7" />
+   <img width="325" alt="image" src="https://github.com/user-attachments/assets/c4a10416-f5be-4815-b96b-52fa8b7049f7" />
    
 - **Frontend Environment**
 
-  <img width="267" alt="image" src="https://github.com/user-attachments/assets/b187a753-3bac-44ef-8755-17ef558a0d44" />
+  <img width="325" alt="image" src="https://github.com/user-attachments/assets/b187a753-3bac-44ef-8755-17ef558a0d44" />
 
   
 - **Network Peering** to connect all environments seamlessly using **Terraform**  
