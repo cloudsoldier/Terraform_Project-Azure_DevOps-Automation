@@ -95,3 +95,6 @@ Apart from that, you will learn about:
 - I will create a complete CI/CD pipeline with triggers and approvals.
 
 
+ - Get familiarized with these abbreviations.
+
+   <img width="791" alt="image" src="https://github.com/user-attachments/assets/08ef6cd0-1f0d-41ff-bc49-a8135bcc1132" />
