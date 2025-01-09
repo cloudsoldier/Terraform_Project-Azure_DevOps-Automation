@@ -7,7 +7,8 @@
  
 # https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
 
-#  To download visual Studio Code editor
+
+# To download visual Studio Code editor
  
 #  https://code.visualstudio.com/download
 
