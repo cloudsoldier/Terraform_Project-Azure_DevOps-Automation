@@ -46,8 +46,22 @@ The lab will be divided into smaller, manageable parts, and each part will be de
 
   
 - **Network Peering** to connect all environments seamlessly using **Terraform**  
-```
 
+
+# Implementing Lab in Multiple Ways
+
+- Deploying code using Az-CLI session and saving state file on the local filesystem.
+- Parameterizing the lab using input and output variables.
+- Modularizing the code and deploying the lab using a local module.
+- Using Terraform registry module for the lab.
+- Reusing the code and deploying multiple environments using workspaces and directories method.
+- Deploying the lab using a service principal account.
+- Deploying the lab again using Key Vault for secrets.
+- Implementing remote state storage on Azure Blob Storage.
+
+Apart from that, you will learn about:
+- Dependency graph
+- Implicit and explicit dependency
 
 
 - **Configure development tools**
