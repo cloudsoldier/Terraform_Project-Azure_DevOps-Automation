@@ -65,13 +65,13 @@ Apart from that, you will learn about:
 
   __________________________________
 
-  # Additional Lab Modifications and Integrations
+  # Planned Lab Modifications and Integrations
 
-- Modify the lab to work with Azure DevOps and Azure Cloud.
-- Integrate the lab with GitHub.
-- Create a service connection between Azure DevOps and GitHub.
-- Set up a service connection between Azure DevOps and Azure Cloud using a Service Principal (SP) account.
-- Create a pipeline in Azure DevOps to deploy the code on Azure Cloud.
+- I will modify the lab to work with Azure DevOps and Azure Cloud.
+- I will integrate the lab with GitHub.
+- I will create a service connection between Azure DevOps and GitHub.
+- I will set up a service connection between Azure DevOps and Azure Cloud using a Service Principal (SP) account.
+- I will create a pipeline in Azure DevOps to deploy the code on Azure Cloud.
 
   
 
