@@ -1,7 +1,5 @@
 
-- **Let's get connected using GitHub and YouTube**
 
-  https://www.youtube.com/channel/UCDLG_HXKB6SfqdsLKW5yU3w
 
 - **Setting up Terraform development environment**
 
