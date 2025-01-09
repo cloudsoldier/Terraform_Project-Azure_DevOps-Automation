@@ -74,6 +74,9 @@ Apart from that, you will learn about:
 - I will create a pipeline in Azure DevOps to deploy the code on Azure Cloud.
 
   
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/7cded6c3-0e51-466b-ab0f-be6d2d855129" />
+
+
 
 
 
