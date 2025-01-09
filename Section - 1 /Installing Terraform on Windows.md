@@ -15,3 +15,12 @@
 # To download git.
  
 # https://git-scm.com/
+
+
+# Installing Terraform
+
+- Download Terraform Zip file.
+- Extract the zip file.
+- Copy the extracted binary file to a folder: `C:\DevOps\Terraform`.
+- Search for advanced system settings link.
+- Add `C:\DevOps\Terraform` to Environment variables path.
