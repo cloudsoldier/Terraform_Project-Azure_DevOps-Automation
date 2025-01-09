@@ -78,6 +78,20 @@ Apart from that, you will learn about:
 
 
 
+# Planned Tasks After Setting Up the DevOps Environment
 
+- I will complete tasks again using Azure DevOps:
+  - Using a Service Principal account through Azure DevOps.
+  - Setting up a Service Connection through Azure DevOps.
+  - Utilizing local and Terraform registry modules to deploy the lab using Azure Pipelines.
+  
+- I will implement secret management in 5 different ways:
+  - Using Key Vault for secrets as a data source.
+  - Using Key Vault for secrets, authorized via a Service Connection through Azure DevOps.
+  - Using environmental variables in three different ways to implement the code.
+
+- I will deploy multiple environments using workspaces and directories in Azure Pipelines.
+
+- I will create a complete CI/CD pipeline with triggers and approvals.
 
 
