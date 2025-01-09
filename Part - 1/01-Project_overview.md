@@ -63,8 +63,18 @@ Apart from that, you will learn about:
 - Dependency graph
 - Implicit and explicit dependency
 
+  __________________________________
+
+  # Additional Lab Modifications and Integrations
+
+- Modify the lab to work with Azure DevOps and Azure Cloud.
+- Integrate the lab with GitHub.
+- Create a service connection between Azure DevOps and GitHub.
+- Set up a service connection between Azure DevOps and Azure Cloud using a Service Principal (SP) account.
+- Create a pipeline in Azure DevOps to deploy the code on Azure Cloud.
+
   
 
 
-- **Configure development tools**
+
 
