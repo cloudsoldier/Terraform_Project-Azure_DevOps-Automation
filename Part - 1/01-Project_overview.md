@@ -98,3 +98,6 @@ Apart from that, you will learn about:
  - Get familiarized with these abbreviations.
 
    <img width="791" alt="image" src="https://github.com/user-attachments/assets/08ef6cd0-1f0d-41ff-bc49-a8135bcc1132" />
+
+<img width="734" alt="image" src="https://github.com/user-attachments/assets/a470ab57-7171-4b9d-8160-c89559e316be" />
+   
